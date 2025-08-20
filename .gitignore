@@ -53,4 +53,11 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 
+# Settings
 appsettings.json
+
+# DB
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
